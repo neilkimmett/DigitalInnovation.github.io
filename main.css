@@ -2,6 +2,29 @@ body {
 	background-color: #cecece
 }
 
+.fr {
+	float:right;
+}
+
+.fl {
+	float:left;
+}
+
+.cb {
+	clear:both;
+}
+
+.title-container {
+	position:relative;
+	width:100%;
+}
+
+.title-container a {
+	position:absolute;
+	right:0;
+	bottom:0;
+}
+
 .team-photo {
 	background:url(team.jpg) no-repeat top center;
 	background-size:cover;
