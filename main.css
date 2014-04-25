@@ -41,6 +41,10 @@ body {
 
 	.title-container a {
 		position:static;
-		margin:6px;
+		margin:0 3px;
+	}
+
+	.title-container {
+		margin:0 0 12px 0;
 	}
 }
