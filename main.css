@@ -12,6 +12,6 @@ body {
 
 @media all and (max-width: 600px)  {
 	.team-photo {
-		height:200px;
+		height:120px;
 	}
 }
