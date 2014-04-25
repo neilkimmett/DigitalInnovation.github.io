@@ -38,4 +38,9 @@ body {
 	.team-photo {
 		height:120px;
 	}
+
+	.title-container a {
+		position:static;
+		margin:6px;
+	}
 }
