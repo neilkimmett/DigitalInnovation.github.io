@@ -1,0 +1,7 @@
+.team-photo {
+	background:url(team.jpg) no-repeat top center;
+	background-size:cover;
+	height:350px;
+	width:100%;
+	display:block;
+}
