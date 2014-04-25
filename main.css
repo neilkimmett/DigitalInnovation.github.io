@@ -5,3 +5,9 @@
 	width:100%;
 	display:block;
 }
+
+@media all and (max-width: 600px)  {
+	.team-photo {
+		height:200px;
+	}
+}
