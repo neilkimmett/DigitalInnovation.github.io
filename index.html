@@ -35,33 +35,62 @@
       			<li><a href="#" class="filter" id="ios">IOS</a></li>
       			<li><a href="#" class="filter" id="android">Android</a></li>
       			<li><a href="#" class="filter" id="javascript">Javascript</a></li>
+            <li><a href="#" class="filter" id="go">Go</a></li>
+            <li><a href="#" class="filter" id="cucumber">Cucumber</a></li>
       		</ul>
 
-      		<div class="panel panel-default android">
-      			<div class="panel-heading">
-      				<h2>Android A/B testing</h2>
-      			</div>
-      			<div class="panel-body">
+      <div class="panel panel-default cucumber">
+        <div class="panel-heading">
+          <h2>Cucumber rest API</h2>
+        </div>
+        <div class="panel-body">
+          <p>Cucumber-rest-api is the functional testing Tool for testing REST APIs.It makes use of a basic HTTP client for testing remote and local JSON and XML restful clients.</p>
+          <p>The tool uses the standard Ruby Net::HTTP client to make requests to your REST API, using cucumber you can write your BDD tests and the built in steps will execute and parse the request response for you.</p>
+          <p>Currently, the example provided in the project is making use of Mimic for mocking the request and responses.</p>
+          <a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/cucumber_rest_api">CODE</a>
+        </div>
+      </div>
+
+      <div class="panel panel-default go">
+        <div class="panel-heading">
+          <h2>GoRayGun</h2>
+        </div>
+        <div class="panel-body">
+          <p>A package that will capture and process any GO application failures. These notifications about failures are then sent to a tracking application (RayGun.io). This gives two benefits:</p>
+          <ol>
+            <li>If there is a failure in the code, the application can handle this failure in a graceful manner</li>
+            <li>We are able to get early notification of possible errors, along with details about the event that triggered the fault</li>
+          </ol>
+          <p>RayGun has added our package to the list of Third-party providers.</p>
+          <a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/go_raygun/">CODE</a>
+        </div>
+      </div>
+
+      <div class="panel panel-default android">
+  			<div class="panel-heading">
+  				<h2>Android A/B testing</h2>
+  			</div>
+  			<div class="panel-body">
 					<p>Remotely configured A/B Testing framework for Android. Uses a remote configuration file to specify weighted choices. These weightings can be adjusted without re-deploying the app. Uses the same configuration file as the iOS version.</p>
 					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/MNSRemoteAB-Android">CODE</a>
 				</div>
 			</div>
 
 			<div class="panel panel-default android">
-      			<div class="panel-heading">
-      				<h2>RaygunAS</h2>
-      			</div>
-      			<div class="panel-body">
+  			<div class="panel-heading">
+  				<h2>RayGunAS</h2>
+  			</div>
+  			<div class="panel-body">
 					<p>Raygun client for Adobe Air projects</p>
 					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/raygunAS">CODE</a>
 				</div>
 			</div>
 
-      		<div class="panel panel-default ios">
-      			<div class="panel-heading">
-      				<h2>IOS A/B testing</h2>
-      			</div>
-      			<div class="panel-body">
+      <div class="panel panel-default ios">
+  			<div class="panel-heading">
+  				<h2>IOS A/B testing</h2>
+  			</div>
+  			<div class="panel-body">
 					<p>Remotely configured A/B Testing framework for iOS. Uses a remote configuration file to specify weighted choices. These weightings can be adjusted without re-deploying the app.</p>
 					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/MNSRemoteAB-iOS​">CODE</a>
 				</div>
@@ -69,16 +98,16 @@
 
 			<div class="panel panel-default javascript">
 				<div class="panel-heading">
-      				<h2>Angular-Lazy-Load</h2>
-      			</div>
+  				<h2>Angular-Lazy-Load</h2>
+  			</div>
 				<div class="panel-body">
 					<p>A cross browser AngularJS directive that lazy loads images as they come into view when the page scrolls, reducing the page weight when it initially loads.</p>
 					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/angular-lazy-load">CODE</a>
 				</div>
 			</div>
 
-      		<div class="panel panel-default javascript">
-      			<div class="panel-heading">
+      <div class="panel panel-default javascript">
+      		<div class="panel-heading">
       				<h2>Angular-Confirm</h2>
       			</div>
       			<div class="panel-body">
@@ -99,10 +128,12 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 	<script>
-		$('.filter').on('click', function () {
-			var tech = $(this).attr('id');
-			$('.panel').hide();
-			$('.' + tech).show();
+		$(document).ready(function() {
+			$('.filter').on('click', function () {
+				var tech = $(this).attr('id');
+				$('.panel').hide();
+				$('.' + tech).show();
+			});
 		});
 	</script>
 </body>
