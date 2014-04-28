@@ -2,16 +2,15 @@ body {
 	background-color: #cecece
 }
 
-.fr {
-	float:right;
-}
-
-.fl {
-	float:left;
-}
-
-.cb {
-	clear:both;
+.banner {
+	width:75%;
+	text-align:center;
+	border-top:1px solid #898989;
+	border-bottom:1px solid #898989;
+	margin:1em auto;
+	padding:1em 2em;
+	font-style: italic;
+	color:#898989;
 }
 
 .title-container {
