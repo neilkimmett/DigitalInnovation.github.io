@@ -24,6 +24,16 @@ body {
 	bottom:0;
 }
 
+ul.technologies {
+	text-align:center;
+}
+
+ul.technologies li {
+	display:inline;
+	margin:0 12px;
+	font-size:1.4em;
+}
+
 .team-photo {
 	background:url(team.jpg) no-repeat top center;
 	background-size:cover;
