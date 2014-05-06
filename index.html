@@ -1,140 +1,183 @@
 <!DOCTYPE html>
-<html lang="en-US" ng-app="application">
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
 <head>
-    <title>Digital Innovation</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Digital Innovation Open Source</title>
+    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="main.css"></script>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-	<div class="navbar navbar-inverse" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#">Digital Innovation</a>
-        </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <!-- <li class="active"><a href="#">Home</a></li> -->
-<!--             <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li> -->
-          </ul>
-        </div>
-      </div>
-    </div>
 
-    <div class="container">
-      	<div class="starter-template">
-      		<div class="team-photo"></div>
-      		<!-- <h2 class="banner">'Some open source projects we have created...'</h2> -->
-      		<div class="title-container">
-	      		<h1>Open Source Projects</h1>
-	      		<a href="https://github.com/DigitalInnovation">github.com/DigitalInnovation</a>
-      		</div>
+<div class="container">
+    <section class="banner">
+        <div class="left">
+            <div class="transparent"></div>
+            <div class="leftContent">
+                <div class="logo"></div>
+                <div class="title">
+                    <h1>digital innovation<br/>open source projects</h1>
+                </div>
+                <div class="social">
+                    <ul>
+                        <li><a href="" class="gplus"></a></li>
+                        <li><a href="https://github.com/DigitalInnovation" class="github"></a></li>
+                        <li><a href="http://careers.stackoverflow.com/company/digital-innovation" class="stack"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <div class="rightContent">
+                <div class="transparent"></div>
+                <p>As a software engineering team we use open source all the time. In the spirit of give and take here’s
+                    what we’ve contributed back to the community.</p>
+            </div>
+        </div>
+    </section>
 
-  			<ul class="technologies">
-      			<li><a href="#" class="filter" id="ios">IOS</a></li>
-      			<li><a href="#" class="filter" id="android">Android</a></li>
-      			<li><a href="#" class="filter" id="javascript">Javascript</a></li>
+    <nav>
+        <ul class="technologies">
+            <li><a href="#" class="filter">All</a></li>
+            <li><a href="#" class="filter" id="ios">IOS</a></li>
+            <li><a href="#" class="filter" id="android">Android</a></li>
+            <li><a href="#" class="filter" id="javascript">Javascript</a></li>
             <li><a href="#" class="filter" id="go">Go</a></li>
             <li><a href="#" class="filter" id="cucumber">Cucumber</a></li>
-      		</ul>
+        </ul>
+    </nav>
 
-      <div class="panel panel-default cucumber">
-        <div class="panel-heading">
-          <h2>Cucumber rest API</h2>
-        </div>
-        <div class="panel-body">
-          <p>Cucumber-rest-api is the functional testing Tool for testing REST APIs.It makes use of a basic HTTP client for testing remote and local JSON and XML restful clients.</p>
-          <p>The tool uses the standard Ruby Net::HTTP client to make requests to your REST API, using cucumber you can write your BDD tests and the built in steps will execute and parse the request response for you.</p>
-          <p>Currently, the example provided in the project is making use of Mimic for mocking the request and responses.</p>
-          <a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/cucumber_rest_api">CODE</a>
-        </div>
-      </div>
+    <section class="content">
+        <h2>Projects</h2>
+        <ul>
+            <li class="cucumber">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>Cucumber rest API</h2>
 
-      <div class="panel panel-default go">
-        <div class="panel-heading">
-          <h2>GoRayGun</h2>
-        </div>
-        <div class="panel-body">
-          <p>A package that will capture and process any GO application failures. These notifications about failures are then sent to a tracking application (RayGun.io). This gives two benefits:</p>
-          <ol>
-            <li>If there is a failure in the code, the application can handle this failure in a graceful manner</li>
-            <li>We are able to get early notification of possible errors, along with details about the event that triggered the fault</li>
-          </ol>
-          <p>RayGun has added our package to the list of Third-party providers.</p>
-          <a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/go_raygun/">CODE</a>
-        </div>
-      </div>
+                    <p>Cucumber-rest-api is the functional testing Tool for testing REST APIs.It makes use of a basic
+                        HTTP
+                        client for testing remote and local JSON and XML restful clients.</p>
+                    <ul>
+                        <li><a class="btn" href="https://github.com/DigitalInnovation/cucumber_rest_api">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
 
-      <div class="panel panel-default android">
-  			<div class="panel-heading">
-  				<h2>Android A/B testing</h2>
-  			</div>
-  			<div class="panel-body">
-					<p>Remotely configured A/B Testing framework for Android. Uses a remote configuration file to specify weighted choices. These weightings can be adjusted without re-deploying the app. Uses the same configuration file as the iOS version.</p>
-					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/MNSRemoteAB-Android">CODE</a>
-				</div>
-			</div>
+            <li class="go raygun">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>GoRayGun</h2>
 
-			<div class="panel panel-default android">
-  			<div class="panel-heading">
-  				<h2>RayGunAS</h2>
-  			</div>
-  			<div class="panel-body">
-					<p>Raygun client for Adobe Air projects</p>
-					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/raygunAS">CODE</a>
-				</div>
-			</div>
+                    <p>A package that will capture and process any GO application failures. These notifications about
+                        failures are then sent to a tracking application (RayGun.io). This gives two benefits:</p>
+                    <ul>
+                        <li><a class="btn" href="https://github.com/DigitalInnovation/go_raygun/">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
 
-      <div class="panel panel-default ios">
-  			<div class="panel-heading">
-  				<h2>IOS A/B testing</h2>
-  			</div>
-  			<div class="panel-body">
-					<p>Remotely configured A/B Testing framework for iOS. Uses a remote configuration file to specify weighted choices. These weightings can be adjusted without re-deploying the app.</p>
-					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/MNSRemoteAB-iOS​">CODE</a>
-				</div>
-			</div>
+            <li class="android ab">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>Android A/B testing</h2>
 
-			<div class="panel panel-default javascript">
-				<div class="panel-heading">
-  				<h2>Angular-Lazy-Load</h2>
-  			</div>
-				<div class="panel-body">
-					<p>A cross browser AngularJS directive that lazy loads images as they come into view when the page scrolls, reducing the page weight when it initially loads.</p>
-					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/angular-lazy-load">CODE</a>
-				</div>
-			</div>
+                    <p>Remotely configured A/B Testing framework for Android. Uses a remote configuration file to
+                        specify weighted choices. These weightings can be adjusted without re-deploying the app. Uses
+                        the same
+                        configuration file as the iOS version.</p>
+                    <ul>
+                        <li><a class="btn" href="https://github.com/DigitalInnovation/MNSRemoteAB-Android">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
 
-      <div class="panel panel-default javascript">
-      		<div class="panel-heading">
-      				<h2>Angular-Confirm</h2>
-      			</div>
-      			<div class="panel-body">
-					<p>A simple AngularJS directive that prompts the user to enter predetermined text in order to continue with user journey after clicking a button. Useful if the action the button performs has irreversable consequences eg deleting a database.</p>
-					<a class="btn btn-primary btn-med" href="Angular-Confirm/demo/index.html">DEMO</a>
-					<a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/Angular-Confirm">CODE</a>
-				</div>
-			</div>
-		</div>
-	</div>
+            <li class="android raygun">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>RayGunAS</h2>
 
-	<footer>
-		<div class="container">
-		<p>&copy; 2014 Marks &amp; Spencer PLC</p>
-	</div>
-	</footer>
+                    <p>Raygun client for Adobe Air projects</p>
+                    <ul>
+                        <li><a class="btn" href="https://github.com/DigitalInnovation/raygunAS">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+            <li class="ios ab">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>IOS A/B testing</h2>
 
-	<script>
-		$(document).ready(function() {
-			$('.filter').on('click', function () {
-				var tech = $(this).attr('id');
-				$('.panel').hide();
-				$('.' + tech).show();
-			});
-		});
-	</script>
+                    <p>Remotely configured A/B Testing framework for iOS. Uses a remote configuration file to specify
+                        weighted choices. These weightings can be adjusted without re-deploying the app.</p>
+                    <ul>
+                        <li><a class="btn" href="https://github.com/DigitalInnovation/MNSRemoteAB-iOS​">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
+
+            <li class="javascript angular">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>Angular-Lazy-Load</h2>
+
+                    <p>A cross browser AngularJS directive that lazy loads images as they come into view when the page
+                        scrolls, reducing the page weight when it initially loads.</p>
+                    <ul>
+                        <li><a class="btn" href="https://github.com/DigitalInnovation/angular-lazy-load">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
+
+            <li class="javascript angular">
+                <div class="panel">
+                    <div class="project-image"></div>
+                    <h2>Angular-Confirm</h2>
+
+                    <p>A simple AngularJS directive that prompts the user to enter predetermined text in order to
+                        continue with user journey after clicking a button. Useful if the action the button performs has
+                        irreversable consequences eg deleting a database.</p>
+                    <ul>
+                        <li><a class="btn" href="Angular-Confirm/demo/index.html">DEMO</a></li>
+                        <li><a class="btn btn-primary btn-med" href="https://github.com/DigitalInnovation/Angular-Confirm">CODE</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2014 Marks &amp; Spencer PLC</p>
+    </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('.filter').on('click', function () {
+            var tech = $(this).attr('id');
+            $('.content > ul > li').hide();
+
+            var el = tech ? $('.' + tech) : $('.content > ul > li');
+
+            el.show();
+            $('.filter').removeClass('highlight');
+            $(this).addClass('highlight');
+        });
+    });
+</script>
+
 </body>
 </html>
