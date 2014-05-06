@@ -5,7 +5,7 @@
     <ignored path="openSource.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399384238046" ignored="false" />
-    <file path="/main.css" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399384288188" ignored="false" />
+    <file path="/main.css" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399384869822" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/bower_components/ngInfiniteScroll/test/lib/angular.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398959467724" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398961198192" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399037205173" ignored="false" />
@@ -110,7 +110,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="291" column="82" selection-start="4923" selection-end="4923" vertical-scroll-proportion="0.41478556">
+            <state line="456" column="32" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.736456">
               <folding />
             </state>
           </provider>
@@ -455,7 +455,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="291" column="82" selection-start="4923" selection-end="4923" vertical-scroll-proportion="0.41478556">
+        <state line="456" column="32" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.736456">
           <folding />
         </state>
       </provider>
