@@ -320,19 +320,23 @@ section.content {
 }
 
 .cucumber .project-image {
-    background-image:url('../img/project.jpg');
+    /*background-image:url('../img/project.jpg');*/
+    background-color:#89f730
 }
 
 .raygun .project-image {
-    background-image:url('../img/goraygun.jpg');
+    /*background-image:url('../img/goraygun.jpg');*/
+    background-color:#65a1eb
 }
 
 .ab .project-image {
-    background-image:url('../img/androidab.jpg');
+    /*background-image:url('../img/androidab.jpg');*/
+    background-color:#eb6598
 }
 
 .angular .project-image {
-    background-image:url('../img/angular.jpg');
+    /*background-image:url('../img/angular.jpg');*/
+    background-color:#f5e987
 }
 
 .panel h2 {
