@@ -3,8 +3,8 @@
   <channel>
     <title>Digital Innovation Recruitment</title>
     <description>We are a startup really with the exception we have quite a big backer with Marks and Spencer, our aim is to create the best software humanly possible.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://digitalinnovation.github.io/jobs</link>
+    <atom:link href="http://digitalinnovation.github.io/jobs/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Java Software Engineer In Test</title>
@@ -49,8 +49,8 @@
 &lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
-        <link>/recruitment/2014/05/08/java-software-engineer-in-test.html</link>
-        <guid isPermaLink="true">/recruitment/2014/05/08/java-software-engineer-in-test.html</guid>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/java-software-engineer-in-test.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/java-software-engineer-in-test.html</guid>
       </item>
     
       <item>
@@ -93,8 +93,8 @@
 &lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
-        <link>/recruitment/2014/05/08/java-software-engineer.html</link>
-        <guid isPermaLink="true">/recruitment/2014/05/08/java-software-engineer.html</guid>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/java-software-engineer.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/java-software-engineer.html</guid>
       </item>
     
       <item>
@@ -142,8 +142,8 @@
 &lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
-        <link>/recruitment/2014/05/08/api-technical-lead.html</link>
-        <guid isPermaLink="true">/recruitment/2014/05/08/api-technical-lead.html</guid>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/api-technical-lead.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/api-technical-lead.html</guid>
       </item>
     
       <item>
@@ -153,8 +153,8 @@
 &lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
-        <link>/recruitment/2014/05/08/amazing-web-developer.html</link>
-        <guid isPermaLink="true">/recruitment/2014/05/08/amazing-web-developer.html</guid>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/amazing-web-developer.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/amazing-web-developer.html</guid>
       </item>
     
   </channel>
