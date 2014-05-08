@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Innovation Recruitment</title>
+    <description>We are a startup really with the exception we have quite a big backer with Marks and Spencer, our aim is to create the best software humanly possible.</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Java Software Engineer In Test</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;We are looking for a talented, self-motivated Software Engineer in Test to join our API team. The API team build APIs to enable the organisation to be more agile, and we help other teams build high-quality APIs.&lt;/p&gt;
+
+&lt;h3 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;With a focus on testability and test infrastructure, you ensure quality automated testing within the team, and high test coverage&lt;/li&gt;
+  &lt;li&gt;Build mocks and test frameworks to enable rapid development&lt;/li&gt;
+  &lt;li&gt;Pair with colleagues to ensure there is a focus on testability and quality&lt;/li&gt;
+  &lt;li&gt;Automate infrastructure, helping the API Team rapidly provision dependencies&lt;/li&gt;
+  &lt;li&gt;Automate, improve and analyse extensive integration testing&lt;/li&gt;
+  &lt;li&gt;Increase quality, security and performance&lt;/li&gt;
+  &lt;li&gt;Ensure that high-quality software practices are adopted and encourage a team culture of continual improvement&lt;/li&gt;
+  &lt;li&gt;Help encourage and advocate the API community at M&amp;amp;S, assist with the dev portal and developer workshops&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
+
+&lt;h4 id=&quot;essential&quot;&gt;Essential:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;You will have come from a strong test automation background with API testing experience&lt;/li&gt;
+  &lt;li&gt;You are experienced and enjoy building web APIs that are intuitive, secure and efficient&lt;/li&gt;
+  &lt;li&gt;You have outstanding engineering talent proven by: great work results in complex environments, projects outside work, or excellent academic results. Your colleagues or friends come to you for the best advice&lt;/li&gt;
+  &lt;li&gt;You have experience of automation tools such as Chef/Puppy&lt;/li&gt;
+  &lt;li&gt;You are an experienced practitioner in Continual Integration and Continual Deployment&lt;/li&gt;
+  &lt;li&gt;You have an agile mindset and embrace change&lt;/li&gt;
+  &lt;li&gt;You take ownership of impediments and strive for continual improvement&lt;/li&gt;
+  &lt;li&gt;You enjoy tackling hard problems, and like to complete tasks precisely and accurately&lt;/li&gt;
+  &lt;li&gt;You have an excellent command of written and spoken English and are good at communicating both within and outside the team&lt;/li&gt;
+  &lt;li&gt;You are experienced with cloud infrastructures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;You have experience of working with APIs in an API Gateway such as Apigee&lt;/li&gt;
+  &lt;li&gt;You have exposure to different technical stacks or programming languages, an MQ technology and Mule ESB&lt;/li&gt;
+  &lt;li&gt;You are experienced with GIT or another DVCS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>/recruitment/2014/05/08/java-software-engineer-in-test.html</link>
+        <guid isPermaLink="true">/recruitment/2014/05/08/java-software-engineer-in-test.html</guid>
+      </item>
+    
+      <item>
+        <title>Java Software Engineer</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;We are looking for a talented, self-motivated software engineer to join our API team. The team build APIs to enable the organisation to be more agile, and we help other teams build high-quality APIs.&lt;/p&gt;
+
+&lt;h3 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Work closely with the API Tech Lead to help build beautiful APIs&lt;/li&gt;
+  &lt;li&gt;Solution architecture with core enterprise systems&lt;/li&gt;
+  &lt;li&gt;Build APIs using our API Gateway&lt;/li&gt;
+  &lt;li&gt;Help encourage and advocate the API community at M&amp;amp;S, assist with the dev portal, developer workshops and SDK libraries&lt;/li&gt;
+  &lt;li&gt;Pair with colleagues, and mentor more junior colleagues in your team&lt;/li&gt;
+  &lt;li&gt;Ensure that high-quality software practices are adopted and encourage a team attitude of continual improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
+
+&lt;h4 id=&quot;essential&quot;&gt;Essential:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;You are highly experienced and enjoy building web APIs that are intuitive, secure and efficient&lt;/li&gt;
+  &lt;li&gt;You have outstanding engineering talent proven by: great work results in complex environments, projects outside work, or excellent academic results. Your colleagues or friends come to you for the best advice&lt;/li&gt;
+  &lt;li&gt;You are an experienced practitioner in TDD, Continual Integration and Continual Deployment&lt;/li&gt;
+  &lt;li&gt;You are a programmer because you love programming and you promote good software engineering practices  &lt;/li&gt;
+  &lt;li&gt;You have an agile mindset and embrace change&lt;/li&gt;
+  &lt;li&gt;You take ownership of impediments and strive for continual improvement&lt;/li&gt;
+  &lt;li&gt;You enjoy tackling hard problems, and like to complete tasks precisely and accurately&lt;/li&gt;
+  &lt;li&gt;You have an excellent command of written and spoken English and are good at communicating both within and outside the team&lt;/li&gt;
+  &lt;li&gt;You are experienced with cloud infrastructures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;You have experience of building and configuring APIs in an API Gateway such as Apigee&lt;/li&gt;
+  &lt;li&gt;You have exposure to different technical stacks or programming languages, an MQ technology and Mule ESB&lt;/li&gt;
+  &lt;li&gt;You are experienced with GIT or another DVCS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>/recruitment/2014/05/08/java-software-engineer.html</link>
+        <guid isPermaLink="true">/recruitment/2014/05/08/java-software-engineer.html</guid>
+      </item>
+    
+      <item>
+        <title>API Technical Lead</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;Marks &amp;amp; Spencer are looking for a talented, self-motivated API Tech Lead to join our API team. The API team build APIs to enable the organisation to be more agile, and we help other teams build high-quality APIs.&lt;/p&gt;
+
+&lt;h3 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Build APIs which are intuitive, elegant, secure and efficient&lt;/li&gt;
+  &lt;li&gt;Become an expert in our API gateway&lt;/li&gt;
+  &lt;li&gt;Help advocate, encourage and nurture an API culture within M&amp;amp;S&lt;/li&gt;
+  &lt;li&gt;Know intimately the heartbeat of API usage&lt;/li&gt;
+  &lt;li&gt;Build strong relationships with the development community within M&amp;amp;S and with external partners, ensuring they have the best support and tools&lt;/li&gt;
+  &lt;li&gt;Own the developer portal and SDK libraries&lt;/li&gt;
+  &lt;li&gt;Work with our engineers in surfacing data and services from our core infrastructure&lt;/li&gt;
+  &lt;li&gt;Collaborate with the Product Owner to evolving the APIs&lt;/li&gt;
+  &lt;li&gt;Ensure that high-quality software practices are adopted and encourage a team culture of continual improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
+
+&lt;h4 id=&quot;essential&quot;&gt;Essential:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;You are highly experienced and enjoy building rich web APIs&lt;/li&gt;
+  &lt;li&gt;You have outstanding engineering talent proven by: great work results in complex environments, projects outside work, or excellent academic results. Your colleagues or friends come to you for the best advice&lt;/li&gt;
+  &lt;li&gt;You are a bit of geek when it comes to data modelling&lt;/li&gt;
+  &lt;li&gt;You are an experienced practitioner in TDD, Continual Integration and Continual Deployment&lt;/li&gt;
+  &lt;li&gt;You have an agile mindset and embrace change&lt;/li&gt;
+  &lt;li&gt;You take ownership of impediments and strive for continual improvement&lt;/li&gt;
+  &lt;li&gt;You enjoy tackling hard problems, and like to complete tasks precisely and accurately&lt;/li&gt;
+  &lt;li&gt;You have an excellent command of written and spoken English and are good at communicating both within and outside the team&lt;/li&gt;
+  &lt;li&gt;You are experienced with cloud infrastructures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;You have experience of working with APIs in an API Gateway such as Apigee&lt;/li&gt;
+  &lt;li&gt;You blog, or have experience of a blogging platform especially Drupal&lt;/li&gt;
+  &lt;li&gt;You have contributed to an open source project, are active in a dev community meet-up or have an active StackOverflow profile&lt;/li&gt;
+  &lt;li&gt;You have exposure to different technical stacks or programming languages, an MQ technology and Mule ESB&lt;/li&gt;
+  &lt;li&gt;You are experienced with GIT or another DVCS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>/recruitment/2014/05/08/api-technical-lead.html</link>
+        <guid isPermaLink="true">/recruitment/2014/05/08/api-technical-lead.html</guid>
+      </item>
+    
+      <item>
+        <title>Amazing Web Developer</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>/recruitment/2014/05/08/amazing-web-developer.html</link>
+        <guid isPermaLink="true">/recruitment/2014/05/08/amazing-web-developer.html</guid>
+      </item>
+    
+  </channel>
+</rss>
