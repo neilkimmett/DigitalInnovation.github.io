@@ -98,6 +98,52 @@
       </item>
     
       <item>
+        <title>Epic iOS Developer</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;Interested in creating something really really good, want to work latest technologies applying real engineering principles?&lt;/p&gt;
+
+&lt;p&gt;As it happens we are doing that, we have just started building the next version of the Marks and Spencer mobile shopping application.  The app is responsible for some serious revenue to us so we are going to do it right.  TDD and Test First all the way if we are going to be agile we need to be really good at defining what is done.&lt;/p&gt;
+
+&lt;p&gt;We are looking someone with exceptional ability, as it says in the title someone Epic, but like not in that TV advert as that would be lame.  We love to code and the right person for this role must share that love, spend your time hacking code for fun, got a github account full of irrelevant projects then keep reading.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
+
+&lt;h4 id=&quot;essential&quot;&gt;Essential:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;In depth knowledge of iOS up to and including SDK7.1&lt;/li&gt;
+  &lt;li&gt;Strong TDD and XCTest knowledge&lt;/li&gt;
+  &lt;li&gt;OCMock&lt;/li&gt;
+  &lt;li&gt;UI guru&lt;/li&gt;
+  &lt;li&gt;CI (Teamcity, Jenkins, etc)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;BDD&lt;/li&gt;
+  &lt;li&gt;Cucumber&lt;/li&gt;
+  &lt;li&gt;Ruby&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;boring-but-important-stuff&quot;&gt;Boring but important stuff&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;We will pay you&lt;/li&gt;
+  &lt;li&gt;You can have a pension if you want one&lt;/li&gt;
+  &lt;li&gt;The office is quite nice&lt;/li&gt;
+  &lt;li&gt;Everyone who works here is cool&lt;/li&gt;
+  &lt;li&gt;You get a 20% company discount&lt;/li&gt;
+  &lt;li&gt;Season ticket loan but you know you really should cycle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have got all this or even better if you have some code to show us, we would love to hear from you.&lt;/p&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/epic-iOS-developer.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/epic-iOS-developer.html</guid>
+      </item>
+    
+      <item>
         <title>API Technical Lead</title>
         <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
 &lt;p&gt;Marks &amp;amp; Spencer are looking for a talented, self-motivated API Tech Lead to join our API team. The API team build APIs to enable the organisation to be more agile, and we help other teams build high-quality APIs.&lt;/p&gt;
@@ -176,7 +222,18 @@
 &lt;ul&gt;
   &lt;li&gt;Google analytics&lt;/li&gt;
   &lt;li&gt;Agile experience&lt;/li&gt;
-  &lt;li&gt;Server side experience (PHP, NodeJS, Ruby)&lt;/li&gt;
+  &lt;li&gt;Ruby&lt;/li&gt;
+  &lt;li&gt;Server side experience (PHP, NodeJS, Rails)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;boring-but-important-stuff&quot;&gt;Boring but important stuff&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;We will pay you&lt;/li&gt;
+  &lt;li&gt;You can have a pension if you want one&lt;/li&gt;
+  &lt;li&gt;The office is quite nice&lt;/li&gt;
+  &lt;li&gt;Everyone who works here is cool&lt;/li&gt;
+  &lt;li&gt;You get a 20% company discount&lt;/li&gt;
+  &lt;li&gt;Season ticket loan but you know you really should cycle&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If you have got all this or even better if you have some code to show us, we would love to hear from you.&lt;/p&gt;
