@@ -5,7 +5,6 @@ email: nicholas.jackson@marks-and-spencer.com
 description: "We are a startup really with the exception we have quite a big backer with Marks and Spencer, our aim is to create the best software humanly possible."
 baseurl: ""
 url: "http://digitalinnovation.github.io"
-baseurl: "http://digitalinnovation.github.io/jobs"
 username: "digitalinnovation"
 
 # Build settings
