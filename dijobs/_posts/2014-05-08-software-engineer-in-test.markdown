@@ -19,6 +19,7 @@ If you’re an accomplished SDET with experience of SpecFlow and other test fram
 * Product testing
 
 ###About you
+
 ####Essential:
 * Test automation frameworks (ideally using.NET as the base language)
 * TDD and BDD (ideally with SpecFlow or similar)

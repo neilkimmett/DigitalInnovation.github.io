@@ -13,7 +13,7 @@ You’ll also be customer focused and UX obsessed with strong product vision and
 If you want to work across product groups in a super fast paced, highly collaborative culture and be an active member of the design community read on….
 
 ###Essential:
-* Strong and proven ability of Visual and UX digital design, including info architecture, interaction design & UI design
+* Strong and proven ability of Visual and UX design, including info architecture, interaction design & UI design
 * Well practiced in the creation of a range of UX deliverables with a great working knowledge of tools such as Omnigraffle, Visio, Axure etc
 * Exceptional visual design aesthetic, variation of style and awareness of digital design & UX trends and innovations
 * Fluent in Adobe creative suite

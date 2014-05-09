@@ -24,12 +24,15 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
-&lt;p&gt;####Essential:
-* Test automation frameworks (ideally using.NET as the base language)
-* TDD and BDD (ideally with SpecFlow or similar)
-* .Net Coded UI
-* Agile experience
-* Practical knowledge of Integration, Smoke, Regression, Exploratory, Usability, Penetration/Security, Soak, Load and Performance testing&lt;/p&gt;
+
+&lt;h4 id=&quot;essential&quot;&gt;Essential:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Test automation frameworks (ideally using.NET as the base language)&lt;/li&gt;
+  &lt;li&gt;TDD and BDD (ideally with SpecFlow or similar)&lt;/li&gt;
+  &lt;li&gt;.Net Coded UI&lt;/li&gt;
+  &lt;li&gt;Agile experience&lt;/li&gt;
+  &lt;li&gt;Practical knowledge of Integration, Smoke, Regression, Exploratory, Usability, Penetration/Security, Soak, Load and Performance testing&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
 &lt;ul&gt;
@@ -356,7 +359,7 @@ You’ll also be customer focused and UX obsessed with strong product vision and
 
 &lt;h3 id=&quot;essential&quot;&gt;Essential:&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Strong and proven ability of Visual and UX digital design, including info architecture, interaction design &amp;amp; UI design&lt;/li&gt;
+  &lt;li&gt;Strong and proven ability of Visual and UX design, including info architecture, interaction design &amp;amp; UI design&lt;/li&gt;
   &lt;li&gt;Well practiced in the creation of a range of UX deliverables with a great working knowledge of tools such as Omnigraffle, Visio, Axure etc&lt;/li&gt;
   &lt;li&gt;Exceptional visual design aesthetic, variation of style and awareness of digital design &amp;amp; UX trends and innovations&lt;/li&gt;
   &lt;li&gt;Fluent in Adobe creative suite&lt;/li&gt;
