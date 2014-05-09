@@ -7,6 +7,96 @@
     <atom:link href="http://digitalinnovation.github.io/jobs/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Software Development Engineer in Test (.Net experience)</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;Are you passionate about test first development and test automation? Do you want to work with the latest technologies applying state of the art engineering principles?&lt;/p&gt;
+
+&lt;p&gt;We’re building some exciting digital propositions for our in-store customers at Marks and Spencer, and need talented software development engineers in test to join our growing agile engineering team. The team has traditionally built stuff using .Net, WPF and MVC, and we’re looking to expand our tech stack to include HTML5 and javascript.&lt;/p&gt;
+
+&lt;p&gt;If you’re an accomplished SDET with experience of SpecFlow and other test frameworks, then we’d love to hear from you.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-the-role&quot;&gt;About the role&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Work in an agile cross-functional product team&lt;/li&gt;
+  &lt;li&gt;Promote good software engineering and test first practices&lt;/li&gt;
+  &lt;li&gt;Support the development team in producing robust and maintainable test automation suites&lt;/li&gt;
+  &lt;li&gt;Product testing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
+&lt;p&gt;####Essential:
+* Test automation frameworks (ideally using.NET as the base language)
+* TDD and BDD (ideally with SpecFlow or similar)
+* .Net Coded UI
+* Agile experience
+* Practical knowledge of Integration, Smoke, Regression, Exploratory, Usability, Penetration/Security, Soak, Load and Performance testing&lt;/p&gt;
+
+&lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+  &lt;li&gt;TeamCity setup and configuration&lt;/li&gt;
+  &lt;li&gt;Jasmine and Karma&lt;/li&gt;
+  &lt;li&gt;Azure&lt;/li&gt;
+  &lt;li&gt;BDD with SpecFlow&lt;/li&gt;
+  &lt;li&gt;Testing for touch interfaces&lt;/li&gt;
+  &lt;li&gt;Testing .Net WPF and ModernUI interfaces&lt;/li&gt;
+  &lt;li&gt;SOLID engineering principles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/software-engineer-in-test.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/software-engineer-in-test.html</guid>
+      </item>
+    
+      <item>
+        <title>.Net MVC Web and WebApi Developer</title>
+        <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;Do you want to work with the latest technologies applying real engineering principles?&lt;/p&gt;
+
+&lt;p&gt;We’re building some exciting digital propositions for our in-store customers at Marks and Spencer, and need talented developers to join our growing agile engineering team. The team has traditionally built stuff using .Net, WPF and MVC, and we’re looking to expand our tech stack to include HTML5 and javascript.&lt;/p&gt;
+
+&lt;p&gt;If you’re an experienced .Net MVC web developer with MVC WebApi experience, then we’d love to hear from you.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-the-role&quot;&gt;About the role&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Work in an agile cross-functional product team&lt;/li&gt;
+  &lt;li&gt;Promote good software engineering practices&lt;/li&gt;
+  &lt;li&gt;Test first development of ASP.NET MVC applications and WebApi REST services hosted in Azure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
+
+&lt;h4 id=&quot;essential&quot;&gt;Essential:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;C#&lt;/li&gt;
+  &lt;li&gt;ASP.Net MVC 4 (or above) including WebApi&lt;/li&gt;
+  &lt;li&gt;HTML5, CSS3 and javascript&lt;/li&gt;
+  &lt;li&gt;Test First&lt;/li&gt;
+  &lt;li&gt;SOLID engineering principles&lt;/li&gt;
+  &lt;li&gt;Agile experience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+  &lt;li&gt;TeamCity setup and configuration&lt;/li&gt;
+  &lt;li&gt;WPF&lt;/li&gt;
+  &lt;li&gt;Azure, SQL Azure and Azure table storage&lt;/li&gt;
+  &lt;li&gt;BDD with SpecFlow&lt;/li&gt;
+  &lt;li&gt;Node.js&lt;/li&gt;
+  &lt;li&gt;CQ5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/net-mvc-web-api-developer.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/net-mvc-web-api-developer.html</guid>
+      </item>
+    
+      <item>
         <title>Java Software Engineer In Test</title>
         <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
 &lt;p&gt;We are looking for a talented, self-motivated Software Engineer in Test to join our API team. The API team build APIs to enable the organisation to be more agile, and we help other teams build high-quality APIs.&lt;/p&gt;
@@ -252,6 +342,51 @@
         <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
         <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/amazing-web-developer.html</link>
         <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/amazing-web-developer.html</guid>
+      </item>
+    
+      <item>
+        <title>Amazing UX and Visual Designer …..x 6 of you please</title>
+        <description>&lt;h2 id=&quot;about-you-and-what-youll-be-helping-us-with&quot;&gt;About you and what you’ll be helping us with&lt;/h2&gt;
+
+&lt;p&gt;Interested in creating innovative and industry first user experiences for our millions of customers? If so, we’re  looking for you…well 6 amazing you’s actually!
+You’ll be a passionate and experienced UX and Visual Designer with the ability to help us reinvent the digital in-store and e-commerce experience. Meeting evolving customer behaviours, needs, wants &amp;amp; desires.
+You’ll also be customer focused and UX obsessed with strong product vision and instinct to help deliver incredible retail user experience from small mobile screens up to 75” touch screen installations. We need people to want to push the boundaries of digital experience in-store and online, and bridge the two while we’re at it.&lt;/p&gt;
+
+&lt;p&gt;If you want to work across product groups in a super fast paced, highly collaborative culture and be an active member of the design community read on….&lt;/p&gt;
+
+&lt;h3 id=&quot;essential&quot;&gt;Essential:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Strong and proven ability of Visual and UX digital design, including info architecture, interaction design &amp;amp; UI design&lt;/li&gt;
+  &lt;li&gt;Well practiced in the creation of a range of UX deliverables with a great working knowledge of tools such as Omnigraffle, Visio, Axure etc&lt;/li&gt;
+  &lt;li&gt;Exceptional visual design aesthetic, variation of style and awareness of digital design &amp;amp; UX trends and innovations&lt;/li&gt;
+  &lt;li&gt;Fluent in Adobe creative suite&lt;/li&gt;
+  &lt;li&gt;Solid understanding of best practice and web standards, methodologies, approach and practices across visual and UX design&lt;/li&gt;
+  &lt;li&gt;Passionate about creating exceptional and inspirational user experiences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desirable&quot;&gt;Desirable:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;UX experience working in an agile, iterative e-commerce environment&lt;/li&gt;
+  &lt;li&gt;Technical Understanding, with a general basic working knowledge of HTML and CSS. Although this is not a development role, an understanding or basic ability to code and prototype would be amazing but not a deal breaker&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;boring-but-important-stuff&quot;&gt;Boring but important stuff&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;We will pay you well and you’ll get lots of lovely benefits including….&lt;/li&gt;
+  &lt;li&gt;You can have a pension if you want one&lt;/li&gt;
+  &lt;li&gt;The office is quite nice but we’re not bound to it&lt;/li&gt;
+  &lt;li&gt;You get a 20% company discount&lt;/li&gt;
+  &lt;li&gt;Season ticket loan but you know you really should cycle&lt;/li&gt;
+  &lt;li&gt;Everyone who works here is cool…hmmm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have got all or most of this then we would love to hear from you.&lt;/p&gt;
+
+&lt;h2 id=&quot;applyhttpsdocsgooglecomformsd1nur2advzmlvzdm1v3eiol4uhq76gspzczvmeblac1kviewformuspsendform&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1NUr2ADvZmlvzdM1V3EIol4Uhq76gsPZczvmEBLAc1_k/viewform?usp=send_form&quot;&gt;Apply&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 15:47:51 +0100</pubDate>
+        <link>http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/amazing-uk-and-visual-designer.html</link>
+        <guid isPermaLink="true">http://digitalinnovation.github.io/jobs/recruitment/2014/05/08/amazing-uk-and-visual-designer.html</guid>
       </item>
     
   </channel>
