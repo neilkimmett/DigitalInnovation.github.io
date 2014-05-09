@@ -1,9 +1,0 @@
-task :test do
-  FileUtils.cp("_configDev.yml","_config.yml")
-  exec 'jekyll serve --watch'
-end
-
-task :build do
-  FileUtils.cp("_configProd.yml","_config.yml")
-  exec 'jekyll build --destination ../jobs'
-end
