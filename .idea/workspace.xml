@@ -4,26 +4,26 @@
     <list default="true" id="422608ff-5d39-4747-8d9f-b9dbc587d14d" name="Default" comment="" />
     <ignored path="openSource.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399384238046" ignored="false" />
-    <file path="/main.css" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399453651737" ignored="false" />
+    <file path="/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399635538033" ignored="false" />
+    <file path="/main.css" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399636137794" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/bower_components/ngInfiniteScroll/test/lib/angular.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398959467724" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398961198192" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399037205173" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399478591182" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/index.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399629963685" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/bower_components/ab-test-service/ab-svc.spec.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398959467724" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/bower_components/angular-google-analytics/bower.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398959492232" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/bower_components/angular-google-analytics/bower.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399479713643" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/bower_components/jquery/test/data/dashboard.xml" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398961198192" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/dist/bower_components/jquery/test/data/with_fries.xml" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398961198192" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/bower_components/angular-google-analytics/.bower.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1398959749909" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/app.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399034304437" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/bower_components/angular-google-analytics/.bower.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399479698728" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/app.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399630364975" ignored="false" />
     <file path="/app.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399020209305" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/services.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399039288263" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/controllers/search.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025202950" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/services.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399632601320" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/controllers/search.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399632429383" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/controllers/productList.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025406600" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/test/spec/controllers/main.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399028890046" ignored="false" />
     <file path="/main.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025148252" ignored="false" />
-    <file path="/search.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399040087184" ignored="false" />
+    <file path="/search.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399473957834" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/test/.jshintrc" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025178078" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/Gruntfile.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399036701289" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/Gruntfile.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399475376713" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/.jshintrc" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025386449" ignored="false" />
     <file path="/.jshintrc" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025379949" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/controllers/product.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399025417201" ignored="false" />
@@ -32,12 +32,23 @@
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/responsive.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399026053849" ignored="false" />
     <file path="/responsive.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399026051826" ignored="false" />
     <file path="/services.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399026232697" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/karma.conf.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399037636054" ignored="false" />
-    <file path="/karma.conf.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399037315166" ignored="false" />
-    <file path="/Gruntfile.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399036700947" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/package.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399036354012" ignored="false" />
-    <file path="$PROJECT_DIR$/../NextGenMobileWeb/test/spec/controllers/search.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399040087184" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/karma.conf.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399480560560" ignored="false" />
+    <file path="/karma.conf.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399471882420" ignored="false" />
+    <file path="/Gruntfile.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399471549612" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/package.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399479046414" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/test/spec/controllers/search.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399474037302" ignored="false" />
     <file path="$PROJECT_DIR$/../NextGenMobileWeb/test/spec/main.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399036989080" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/bower.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399629625263" ignored="false" />
+    <file path="/a.dummy" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399478368486" ignored="false" />
+    <file path="/bower.json" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399478477075" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/views/product.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399629496257" ignored="false" />
+    <file path="/product.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399630091992" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/controllers/list.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399632400235" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/styles/main.css" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399632320852" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/views/components/product.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399630091992" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/views/mobile/productList.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399630149247" ignored="false" />
+    <file path="/productList.html" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399630125744" ignored="false" />
+    <file path="$PROJECT_DIR$/../NextGenMobileWeb/app/scripts/controllers/main.js" changelist="422608ff-5d39-4747-8d9f-b9dbc587d14d" time="1399632415721" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +112,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="41" selection-start="5970" selection-end="5970" vertical-scroll-proportion="-48.125">
+            <state line="164" column="10" selection-start="6969" selection-end="6969" vertical-scroll-proportion="-100.0">
               <folding />
             </state>
           </provider>
@@ -110,16 +121,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="338" column="28" selection-start="5930" selection-end="5930" vertical-scroll-proportion="0.5631912">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="0" selection-start="610" selection-end="788" vertical-scroll-proportion="0.0">
+            <state line="236" column="11" selection-start="4083" selection-end="4083" vertical-scroll-proportion="0.70537126">
               <folding />
             </state>
           </provider>
@@ -448,14 +450,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="41" selection-start="5970" selection-end="5970" vertical-scroll-proportion="-48.125">
+        <state line="164" column="10" selection-start="6969" selection-end="6969" vertical-scroll-proportion="-100.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="338" column="28" selection-start="5930" selection-end="5930" vertical-scroll-proportion="0.5631912">
+        <state line="236" column="11" selection-start="4083" selection-end="4083" vertical-scroll-proportion="0.70537126">
           <folding />
         </state>
       </provider>
