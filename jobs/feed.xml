@@ -104,7 +104,9 @@
 
 &lt;p&gt;As it happens we are doing that, we have just started building the next version of the Marks and Spencer mobile shopping application.  The app is responsible for some serious revenue to us so we are going to do it right.  TDD and Test First all the way if we are going to be agile we need to be really good at defining what is done.&lt;/p&gt;
 
-&lt;p&gt;We are looking someone with exceptional ability, as it says in the title someone Epic, but like not in that TV advert as that would be lame.  We love to code and the right person for this role must share that love, spend your time hacking code for fun, got a github account full of irrelevant projects then keep reading.&lt;/p&gt;
+&lt;p&gt;We are looking for someone with exceptional ability, as it says in the title someone Epic, but like not in that TV advert as that would be lame.  We love to code and the right person for this role must share that love. Spend your time hacking code for fun, got a github account full of irrelevant projects then keep reading.&lt;/p&gt;
+
+&lt;p&gt;Actually if this is a Friday and you are reading this then stop reading, we don’t work on projects on a Friday that’s our innovation day.&lt;/p&gt;
 
 &lt;h3 id=&quot;about-you&quot;&gt;About you&lt;/h3&gt;
 
@@ -115,14 +117,20 @@
   &lt;li&gt;OCMock&lt;/li&gt;
   &lt;li&gt;UI guru&lt;/li&gt;
   &lt;li&gt;CI (Teamcity, Jenkins, etc)&lt;/li&gt;
+  &lt;li&gt;Excellent communication skills&lt;/li&gt;
+  &lt;li&gt;Strong OO design and programming skills&lt;/li&gt;
+  &lt;li&gt;Integration of web APIs - REST/JSON/XML&lt;/li&gt;
+  &lt;li&gt;Track record of successful apps&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;highly-desirable&quot;&gt;Highly desirable:&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;BDD&lt;/li&gt;
   &lt;li&gt;Cucumber&lt;/li&gt;
-  &lt;li&gt;Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby (we use it to help us automate our builds and tests)&lt;/li&gt;
   &lt;li&gt;CocoaPods&lt;/li&gt;
+  &lt;li&gt;Familiar with version control and task tracking systems (we use git &amp;amp; pivotal)&lt;/li&gt;
+  &lt;li&gt;Experience of working within an Agile environment&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;boring-but-important-stuff&quot;&gt;Boring but important stuff&lt;/h3&gt;
@@ -198,7 +206,7 @@
         <description>&lt;h2 id=&quot;job-description&quot;&gt;Job Description&lt;/h2&gt;
 &lt;p&gt;Do you want to work with the latest technologies applying real engineering principles?  &lt;/p&gt;
 
-&lt;p&gt;We are just about to start building a new mobile web experience for Marks and Spencer and we want to build the foundation for the future so technology matters.  We will most likely be using HTML5, AngularJS and APIs and we need some amazing developers to help us.  However we are open to ideas and actually still figuring things out, defining this techstack is part of the role, working with the tech lead you will be responsible for defining and proving that your ideas are the right choices for us.&lt;/p&gt;
+&lt;p&gt;We are just about to start building a new mobile web experience for Marks and Spencer and we want to build the foundation for the future so technology matters.  We will most likely be using HTML5, AngularJS and APIs and we need some amazing developers to help us.  However we are open to ideas and helping to define this techstack is part of the role, working with the tech lead you will be responsible for defining and proving that your ideas are the right choices for us.&lt;/p&gt;
 
 &lt;p&gt;Performance and Quality are two things very close to our hearts, we we always use a test first methodology because we know that stuff matters.  We also have a pretty nice laid back working environment, doing things right does not mean get it right first time, we know how important it is to experiment and thats why we only work 4 days per week on product work.  The other day is dedicated to innovation and personal development.&lt;/p&gt;
 
